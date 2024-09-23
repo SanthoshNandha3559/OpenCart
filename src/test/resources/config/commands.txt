@@ -1,0 +1,83 @@
+** Standalone Setup (Single Machine Selenium Grid);
+-----------------------------------------------------
+java -jar selenium-server-4.25.0.jar standalone
+http://192.168.1.29:4444 -- host
+
+
+** Hub and Node Setup(Multiple Machines);
+-------------------------------------------
+java -jar selenium-server-4.25.0.jar hub
+
+java -jar selenium-server-4.25.0.jar node --hub http://192.168.1.29:4444
+
+
+**Docker Commands
+-------------------------------
+
+Docker version
+docker-compose version   (To Check the version)
+
+** basic Commands
+-------------------------------------
+docker info
+docker --help
+docker login
+docker images(To see the images)
+docker pull ubuntu(To pull the images)
+docker rmi ImageiD(to remove the image)
+
+*** Container Commands
+------------------------------------
+docker ps (shows the containers currently running)
+docker run ubuntu(pull the image and create the container)
+docker start ubuntu(to start the container)
+docker stop ubuntu (to stop the container)
+docker rm <container id/name> (to remove)
+
+***System Commands
+----------------------------------------------------------------------
+docker stats
+docker system df
+docker system prune -f (to delete all the containers at one shot)
+
+
+__________________________________________________________________
+
+docker network create grid (to create the network)
+docker network rm grid (to remove the network)
+docker run -d -p 4442-4444:4442-4444 --net grid --name selenium-hub selenium/hub
+docker run --net grid -e SE_EVENT_BUS_HOST=selenium-hub -e SE_EVENT_BUS_PUBLISH_PORT=4442 -e SE_EVENT_BUS_SUBSCRIBE_PORT=4444 selenium/node-chrome
+docker run --net grid -e SE_EVENT_BUS_HOST=selenium-hub -e SE_EVENT_BUS_PUBLISH_PORT=4442 -e SE_EVENT_BUS_SUBSCRIBE_PORT=4444 selenium/node-firefox
+
+
+****Maven Commands
+---------------------------------------------
+mvn -version
+mvn test (to run the tests outside)
+
+**** Git Commands
+--------------------------------------------------------------------------
+git init(to create repository local)
+git config --global user.name "Santhosh"
+git config --global user.email "santhoshnandha3559@gmail.com"
+git status (shows the untracked Files)
+git add -A (to add all the files from untracked to tracked stage(work folder to staging)) 
+git add folder Name (to add folder)
+git add filename(to add file)
+git add *.java (to add similar files)
+git commit -m "Frist Message" (to commit to repository local git)
+git remote add origin "https://github.com/SanthoshNandha3559/Opencart.git" (to establish the connection between local and remote git)
+git push origin master (to push the code from local to remote repo)
+
+git pull "https://github.com/SanthoshNandha3559/Opencart.git" (pull the files from remote repository)
+git clone "https://github.com/SanthoshNandha3559/Opencart.git" (to clone the project from repo to local)
+
+***** Jenkins commonds
+-------------------------------------------------------------------------
+java -jar Jenkins.war (in cmd)
+
+
+
+
+
+
