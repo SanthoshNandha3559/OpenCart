@@ -1,0 +1,45 @@
+02:37:38.004 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Santhu Workspace\opencart-test-automation\HybridAutomationFramework\OpenCart\grid-docker.xml
+
+02:37:38.203 [main] INFO  com.qa.opencart.tests.TC001_AccountRegistrationTest - ****** Started The Execution *****
+02:37:42.626 [main] INFO  com.qa.opencart.tests.TC002_LoginTest - ****** Started The Execution *****
+11:48:40.269 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'true' is no longer valid, defaulting to 'methods'.
+11:48:40.729 [TestNG-test-ChromeTest-3] INFO  com.qa.opencart.tests.TC002_LoginTest - ****** Started The Execution *****
+11:48:40.729 [TestNG-test-ChromeTest-1] INFO  com.qa.opencart.tests.TC001_AccountRegistrationTest - ****** Started The Execution *****
+11:48:40.729 [TestNG-test-ChromeTest-2] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ****** Started The Execution *****
+11:48:47.152 [TestNG-test-EdgeTest-1] INFO  com.qa.opencart.tests.TC001_AccountRegistrationTest - ****** Started The Execution *****
+11:48:47.152 [TestNG-test-EdgeTest-3] INFO  com.qa.opencart.tests.TC002_LoginTest - ****** Started The Execution *****
+11:48:47.152 [TestNG-test-EdgeTest-2] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ****** Started The Execution *****
+11:50:45.995 [main] INFO  com.qa.opencart.tests.TC002_LoginTest - ****** Started The Execution *****
+11:50:50.585 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ****** Started The Execution *****
+11:54:15.983 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Santhu Workspace\opencart-test-automation\HybridAutomationFramework\OpenCart\testng.xml
+
+11:54:16.241 [main] INFO  com.qa.opencart.tests.TC002_LoginTest - ****** Started The Execution *****
+11:54:20.083 [main] INFO  com.qa.opencart.tests.TC002_LoginTest - ******* TC002_LoginTest Execution Started *******
+11:54:21.317 [main] INFO  com.qa.opencart.tests.TC002_LoginTest - ******* User Loged in Successfully *******
+11:54:21.532 [main] INFO  com.qa.opencart.tests.TC002_LoginTest - ******  The Execution Finshed *****
+11:54:21.535 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ****** Started The Execution *****
+11:54:24.565 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Started *******
+11:54:25.924 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Finshed *******
+11:54:25.929 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Started *******
+11:54:36.649 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Finshed *******
+11:54:36.663 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Started *******
+11:54:47.405 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Finshed *******
+11:54:47.405 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Started *******
+11:54:58.346 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Finshed *******
+11:54:58.361 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Started *******
+11:55:09.165 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Finshed *******
+11:55:09.402 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******  The Execution Finshed *****
+12:29:21.142 [main] INFO  com.qa.opencart.tests.TC002_LoginTest - ****** Started The Execution *****
+12:29:26.042 [main] INFO  com.qa.opencart.tests.TC002_LoginTest - ******* TC002_LoginTest Execution Started *******
+12:29:28.152 [main] INFO  com.qa.opencart.tests.TC002_LoginTest - ******* User Loged in Successfully *******
+12:29:28.690 [main] INFO  com.qa.opencart.tests.TC002_LoginTest - ******  The Execution Finshed *****
+12:29:28.697 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ****** Started The Execution *****
+12:29:34.757 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Started *******
+12:29:37.338 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Finshed *******
+12:29:37.346 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Started *******
+12:29:48.691 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Finshed *******
+12:29:48.691 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Started *******
+12:30:00.172 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Finshed *******
+12:30:00.172 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Started *******
