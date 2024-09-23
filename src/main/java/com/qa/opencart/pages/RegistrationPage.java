@@ -31,7 +31,7 @@ public class RegistrationPage extends BasePage {
 	@FindBy(xpath = "//button[text()='Continue']")
 	WebElement button_Continue;
 
-	@FindBy(xpath = "//h1")
+	@FindBy(xpath = "//div[@id='content']/h1")
 	WebElement confirm_Message;
 
 	public String getRegister(String fName, String lName, String email, String pwd) throws InterruptedException {
@@ -42,6 +42,7 @@ public class RegistrationPage extends BasePage {
 		JavascriptExecutor js = (JavascriptExecutor) driver;
 		js.executeScript("arguments[0].click()", toggle);
 		button_Continue.submit();
+		Thread.sleep(1000);
 		try {
 			return confirm_Message.getText();
 		} catch (Exception e) {

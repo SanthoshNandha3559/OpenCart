@@ -1,36 +1,30 @@
-12:30:11.037 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Finshed *******
-12:30:11.117 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Started *******
-12:30:22.187 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Finshed *******
-12:30:22.518 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******  The Execution Finshed *****
-12:49:40.526 [main] INFO  com.qa.opencart.tests.TC002_LoginTest - ****** Started The Execution *****
-12:49:42.347 [main] INFO  com.qa.opencart.tests.TC002_LoginTest - ******* TC002_LoginTest Execution Started *******
-12:49:43.267 [main] INFO  com.qa.opencart.tests.TC002_LoginTest - ******* User Loged in Successfully *******
-12:49:43.403 [main] INFO  com.qa.opencart.tests.TC002_LoginTest - ******  The Execution Finshed *****
-12:49:43.403 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ****** Started The Execution *****
-12:49:45.675 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Started *******
-12:49:47.620 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Finshed *******
-12:49:47.622 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Started *******
-12:49:58.076 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Finshed *******
-12:49:58.076 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Started *******
-12:50:08.503 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Finshed *******
-12:50:08.503 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Started *******
-12:50:19.111 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Finshed *******
-12:50:19.111 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Started *******
-12:50:29.534 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Finshed *******
-12:50:29.690 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******  The Execution Finshed *****
-12:53:31.269 [main] INFO  com.qa.opencart.tests.TC002_LoginTest - ****** Started The Execution *****
-12:53:32.996 [main] INFO  com.qa.opencart.tests.TC002_LoginTest - ******* TC002_LoginTest Execution Started *******
-12:53:33.845 [main] INFO  com.qa.opencart.tests.TC002_LoginTest - ******* User Loged in Successfully *******
-12:53:33.951 [main] INFO  com.qa.opencart.tests.TC002_LoginTest - ******  The Execution Finshed *****
-12:53:33.951 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ****** Started The Execution *****
-12:53:36.090 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Started *******
-12:53:37.186 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Finshed *******
-12:53:37.188 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Started *******
-12:53:47.610 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Finshed *******
-12:53:47.610 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Started *******
-12:53:58.047 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Finshed *******
-12:53:58.047 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Started *******
-12:54:08.464 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Finshed *******
-12:54:08.464 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Started *******
-12:54:18.866 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Finshed *******
-12:54:19.007 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******  The Execution Finshed *****
+20:03:12.138 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Santhu Workspace\opencart-test-automation\HybridAutomationFramework\OpenCart\testng.xml
+
+20:03:12.331 [main] INFO  com.qa.opencart.tests.TC004_GetLinkText - ****** Started The Execution *****
+20:03:13.940 [main] INFO  com.qa.opencart.tests.TC004_GetLinkText - ******** TC004_GetLinkText Execution Started *****
+20:03:14.715 [main] INFO  com.qa.opencart.tests.TC004_GetLinkText - ******  The Execution Finshed *****
+20:07:03.041 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Santhu Workspace\opencart-test-automation\HybridAutomationFramework\OpenCart\testng.xml
+
+20:07:03.222 [main] INFO  com.qa.opencart.tests.TC004_GetLinkText - ****** Started The Execution *****
+20:07:04.862 [main] INFO  com.qa.opencart.tests.TC004_GetLinkText - ******** TC004_GetLinkText Execution Started *****
+20:07:05.879 [main] INFO  com.qa.opencart.tests.TC004_GetLinkText - ******  The Execution Finshed *****
+20:12:21.978 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Santhu Workspace\opencart-test-automation\HybridAutomationFramework\OpenCart\testng.xml
+
+20:12:22.174 [main] INFO  com.qa.opencart.tests.TC004_GetLinkText - ****** Started The Execution *****
+20:12:23.965 [main] INFO  com.qa.opencart.tests.TC004_GetLinkText - ******** TC004_GetLinkText Execution Started *****
+20:12:25.355 [main] INFO  com.qa.opencart.tests.TC004_GetLinkText - ******  The Execution Finshed *****
+20:21:38.746 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Santhu Workspace\opencart-test-automation\HybridAutomationFramework\OpenCart\testng.xml
+
+20:21:38.921 [main] INFO  com.qa.opencart.tests.TC004_GetLinkText - ****** Started The Execution *****
+20:21:41.352 [main] INFO  com.qa.opencart.tests.TC004_GetLinkText - ******** TC004_GetLinkText Execution Started *****
+20:21:42.425 [main] INFO  com.qa.opencart.tests.TC004_GetLinkText - ******  The Execution Finshed *****
+20:22:16.357 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Santhu Workspace\opencart-test-automation\HybridAutomationFramework\OpenCart\testng.xml
+
+20:22:16.531 [main] INFO  com.qa.opencart.tests.TC004_GetLinkText - ****** Started The Execution *****
+20:22:18.074 [main] INFO  com.qa.opencart.tests.TC004_GetLinkText - ******** TC004_GetLinkText Execution Started *****
+20:22:19.310 [main] INFO  com.qa.opencart.tests.TC004_GetLinkText - ******  The Execution Finshed *****

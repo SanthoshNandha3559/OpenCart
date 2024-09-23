@@ -8,10 +8,10 @@
 		<parameter name="os" value="windows"></parameter>
 		<parameter name="browser" value="chrome"></parameter>
 		<classes>
-			<!--<class
-				name="com.qa.opencart.tests.TC001_AccountRegistrationTest" /> -->
-			<class name="com.qa.opencart.tests.TC002_LoginTest"></class>
-			<class name="com.qa.opencart.tests.TC003_LoginDataDriven"></class>
+			<class name="com.qa.opencart.tests.TC004_GetLinkText"></class>
+			<!--<class name="com.qa.opencart.tests.TC002_LoginTest"></class>
+			<class name="com.qa.opencart.tests.TC001_AccountRegistrationTest" />
+			<class name="com.qa.opencart.tests.TC003_LoginDataDriven"></class> -->
 		</classes>
 	</test>
 </suite>

@@ -5,23 +5,16 @@
     <listener class-name="com.qa.opencart.utilities.ExtentReportManager"/>
   </listeners>
   <test thread-count="5" name="Test(failed)">
-    <parameter name="os" value="Linux"/>
+    <parameter name="os" value="windows"/>
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.qa.opencart.tests.TC002_LoginTest">
+      <class name="com.qa.opencart.tests.TC004_GetLinkText">
         <methods>
-          <include name="loginSuccessfulTest"/>
+          <include name="GetLinkTextsTest"/>
           <include name="setUp"/>
           <include name="tearDown"/>
         </methods>
-      </class> <!-- com.qa.opencart.tests.TC002_LoginTest -->
-      <class name="com.qa.opencart.tests.TC001_AccountRegistrationTest">
-        <methods>
-          <include name="creatAccount"/>
-          <include name="setUp"/>
-          <include name="tearDown"/>
-        </methods>
-      </class> <!-- com.qa.opencart.tests.TC001_AccountRegistrationTest -->
+      </class> <!-- com.qa.opencart.tests.TC004_GetLinkText -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

@@ -1,45 +1,54 @@
-02:37:38.004 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Santhu Workspace\opencart-test-automation\HybridAutomationFramework\OpenCart\grid-docker.xml
-
-02:37:38.203 [main] INFO  com.qa.opencart.tests.TC001_AccountRegistrationTest - ****** Started The Execution *****
-02:37:42.626 [main] INFO  com.qa.opencart.tests.TC002_LoginTest - ****** Started The Execution *****
-11:48:40.269 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'true' is no longer valid, defaulting to 'methods'.
-11:48:40.729 [TestNG-test-ChromeTest-3] INFO  com.qa.opencart.tests.TC002_LoginTest - ****** Started The Execution *****
-11:48:40.729 [TestNG-test-ChromeTest-1] INFO  com.qa.opencart.tests.TC001_AccountRegistrationTest - ****** Started The Execution *****
-11:48:40.729 [TestNG-test-ChromeTest-2] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ****** Started The Execution *****
-11:48:47.152 [TestNG-test-EdgeTest-1] INFO  com.qa.opencart.tests.TC001_AccountRegistrationTest - ****** Started The Execution *****
-11:48:47.152 [TestNG-test-EdgeTest-3] INFO  com.qa.opencart.tests.TC002_LoginTest - ****** Started The Execution *****
-11:48:47.152 [TestNG-test-EdgeTest-2] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ****** Started The Execution *****
-11:50:45.995 [main] INFO  com.qa.opencart.tests.TC002_LoginTest - ****** Started The Execution *****
-11:50:50.585 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ****** Started The Execution *****
-11:54:15.983 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+19:27:53.735 [main] INFO  com.qa.opencart.tests.TC001_AccountRegistrationTest - ****** Started The Execution *****
+19:27:56.359 [main] INFO  com.qa.opencart.tests.TC001_AccountRegistrationTest - ******* TC001_AccountRegistrationTest Execution Started *******
+19:27:58.000 [main] INFO  com.qa.opencart.tests.TC001_AccountRegistrationTest - ******  The Execution Finshed *****
+19:29:19.506 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   C:\Santhu Workspace\opencart-test-automation\HybridAutomationFramework\OpenCart\testng.xml
 
-11:54:16.241 [main] INFO  com.qa.opencart.tests.TC002_LoginTest - ****** Started The Execution *****
-11:54:20.083 [main] INFO  com.qa.opencart.tests.TC002_LoginTest - ******* TC002_LoginTest Execution Started *******
-11:54:21.317 [main] INFO  com.qa.opencart.tests.TC002_LoginTest - ******* User Loged in Successfully *******
-11:54:21.532 [main] INFO  com.qa.opencart.tests.TC002_LoginTest - ******  The Execution Finshed *****
-11:54:21.535 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ****** Started The Execution *****
-11:54:24.565 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Started *******
-11:54:25.924 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Finshed *******
-11:54:25.929 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Started *******
-11:54:36.649 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Finshed *******
-11:54:36.663 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Started *******
-11:54:47.405 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Finshed *******
-11:54:47.405 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Started *******
-11:54:58.346 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Finshed *******
-11:54:58.361 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Started *******
-11:55:09.165 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Finshed *******
-11:55:09.402 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******  The Execution Finshed *****
-12:29:21.142 [main] INFO  com.qa.opencart.tests.TC002_LoginTest - ****** Started The Execution *****
-12:29:26.042 [main] INFO  com.qa.opencart.tests.TC002_LoginTest - ******* TC002_LoginTest Execution Started *******
-12:29:28.152 [main] INFO  com.qa.opencart.tests.TC002_LoginTest - ******* User Loged in Successfully *******
-12:29:28.690 [main] INFO  com.qa.opencart.tests.TC002_LoginTest - ******  The Execution Finshed *****
-12:29:28.697 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ****** Started The Execution *****
-12:29:34.757 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Started *******
-12:29:37.338 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Finshed *******
-12:29:37.346 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Started *******
-12:29:48.691 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Finshed *******
-12:29:48.691 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Started *******
-12:30:00.172 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Finshed *******
-12:30:00.172 [main] INFO  com.qa.opencart.tests.TC003_LoginDataDriven - ******* TC003_LoginDataDriven Execution Started *******
+19:29:19.768 [main] INFO  com.qa.opencart.tests.TC001_AccountRegistrationTest - ****** Started The Execution *****
+19:29:22.266 [main] INFO  com.qa.opencart.tests.TC001_AccountRegistrationTest - ******* TC001_AccountRegistrationTest Execution Started *******
+19:29:28.714 [main] INFO  com.qa.opencart.tests.TC001_AccountRegistrationTest - ******  The Execution Finshed *****
+19:30:11.158 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Santhu Workspace\opencart-test-automation\HybridAutomationFramework\OpenCart\testng.xml
+
+19:30:11.420 [main] INFO  com.qa.opencart.tests.TC001_AccountRegistrationTest - ****** Started The Execution *****
+19:30:13.797 [main] INFO  com.qa.opencart.tests.TC001_AccountRegistrationTest - ******* TC001_AccountRegistrationTest Execution Started *******
+19:30:20.103 [main] INFO  com.qa.opencart.tests.TC001_AccountRegistrationTest - ******* Account Created Successfully *******
+19:30:20.437 [main] INFO  com.qa.opencart.tests.TC001_AccountRegistrationTest - ******  The Execution Finshed *****
+19:31:08.910 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Santhu Workspace\opencart-test-automation\HybridAutomationFramework\OpenCart\testng.xml
+
+19:31:09.172 [main] INFO  com.qa.opencart.tests.TC001_AccountRegistrationTest - ****** Started The Execution *****
+19:31:11.376 [main] INFO  com.qa.opencart.tests.TC001_AccountRegistrationTest - ******* TC001_AccountRegistrationTest Execution Started *******
+19:31:12.829 [main] INFO  com.qa.opencart.tests.TC001_AccountRegistrationTest - ******  The Execution Finshed *****
+19:34:21.860 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Santhu Workspace\opencart-test-automation\HybridAutomationFramework\OpenCart\testng.xml
+
+19:34:22.030 [main] INFO  com.qa.opencart.tests.TC001_AccountRegistrationTest - ****** Started The Execution *****
+19:34:23.567 [main] INFO  com.qa.opencart.tests.TC001_AccountRegistrationTest - ******* TC001_AccountRegistrationTest Execution Started *******
+19:34:24.529 [main] INFO  com.qa.opencart.tests.TC001_AccountRegistrationTest - ******  The Execution Finshed *****
+19:35:46.897 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Santhu Workspace\opencart-test-automation\HybridAutomationFramework\OpenCart\testng.xml
+
+19:35:47.072 [main] INFO  com.qa.opencart.tests.TC001_AccountRegistrationTest - ****** Started The Execution *****
+19:35:48.736 [main] INFO  com.qa.opencart.tests.TC001_AccountRegistrationTest - ******* TC001_AccountRegistrationTest Execution Started *******
+19:35:49.611 [main] INFO  com.qa.opencart.tests.TC001_AccountRegistrationTest - ******  The Execution Finshed *****
+19:39:38.067 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Santhu Workspace\opencart-test-automation\HybridAutomationFramework\OpenCart\testng.xml
+
+19:39:38.235 [main] INFO  com.qa.opencart.tests.TC001_AccountRegistrationTest - ****** Started The Execution *****
+19:39:39.902 [main] INFO  com.qa.opencart.tests.TC001_AccountRegistrationTest - ******* TC001_AccountRegistrationTest Execution Started *******
+19:39:40.835 [main] INFO  com.qa.opencart.tests.TC001_AccountRegistrationTest - ******  The Execution Finshed *****
+19:40:38.104 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Santhu Workspace\opencart-test-automation\HybridAutomationFramework\OpenCart\testng.xml
+
+19:40:38.278 [main] INFO  com.qa.opencart.tests.TC001_AccountRegistrationTest - ****** Started The Execution *****
+19:40:39.796 [main] INFO  com.qa.opencart.tests.TC001_AccountRegistrationTest - ******* TC001_AccountRegistrationTest Execution Started *******
+19:40:42.437 [main] INFO  com.qa.opencart.tests.TC001_AccountRegistrationTest - ******* Account Created Successfully *******
+19:40:42.587 [main] INFO  com.qa.opencart.tests.TC001_AccountRegistrationTest - ******  The Execution Finshed *****
+19:41:09.219 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Santhu Workspace\opencart-test-automation\HybridAutomationFramework\OpenCart\testng.xml
+
+19:41:09.410 [main] INFO  com.qa.opencart.tests.TC001_AccountRegistrationTest - ****** Started The Execution *****
+19:41:10.934 [main] INFO  com.qa.opencart.tests.TC001_AccountRegistrationTest - ******* TC001_AccountRegistrationTest Execution Started *******
+19:41:12.589 [main] INFO  com.qa.opencart.tests.TC001_AccountRegistrationTest - ******* Account Created Successfully *******
+19:41:12.710 [main] INFO  com.qa.opencart.tests.TC001_AccountRegistrationTest - ******  The Execution Finshed *****
